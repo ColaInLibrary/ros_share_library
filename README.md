@@ -8,4 +8,4 @@
    - cs_using_a_ros_library：利用catkin_simple的方式来调用共享库
    
 更多的说明请参考：
-https://colainlibrary.com/ff2330c4.html
+https://colainlibrary.com/archives/ff2330c4.html
